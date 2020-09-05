@@ -1,0 +1,11 @@
+Hi Dear!
+	One of the most important thing for all of you who is
+ interested to see my projects. All of you firstly make a new
+ directory where you put all reqired data with code of project
+ else you can change the path of that data, then it'll work well
+ otherwise, you can face some error like path is not properly 
+ set, so beware to all of these rubbish.
+    
+   Thank You!
+		      Enjoy Your Time
+  
